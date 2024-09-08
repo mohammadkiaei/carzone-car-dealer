@@ -11,6 +11,8 @@ Welcome to CarZone, a comprehensive car dealer website offering a wide range of 
 
 ![Home Page](https://github.com/mohammadkiaei/carzone-car-dealer/blob/master/carzone%20img/Screenshot%202023-09-04%20at%2016-29-28%20Car%20Zone%20Home.png)
 <br/>
+![Home Page 2](https://github.com/mohammadkiaei/carzone-car-dealer/blob/master/carzone%20img/Carzone.png)
+<br/>
 ![Car Inventory](https://github.com/mohammadkiaei/carzone-car-dealer/blob/master/carzone%20img/Screenshot%202023-09-04%20at%2016-30-08%20Car%20Zone%20Our%20Cars%20Inventory(1).png)
 <br/>
 ![Car Detail Page](https://github.com/mohammadkiaei/carzone-car-dealer/blob/master/carzone%20img/Screenshot%202023-09-04%20at%2016-35-50%20Car%20Zone%202017%20Ford%20F-250%20Super%20Duty(1).png)
